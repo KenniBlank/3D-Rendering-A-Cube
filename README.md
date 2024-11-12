@@ -1,2 +1,1 @@
-
-(YT)[https://youtu.be/SunLO0pyj2M]
+[YT](https://youtu.be/SunLO0pyj2M)
